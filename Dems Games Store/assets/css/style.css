@@ -589,7 +589,7 @@ section {
 
 .clients .swiper-pointer-events {
   touch-action: pan-y;
-  background-color: #8f8e8e;
+  background-color: #FFFFFF;
 }
 
 .clients .swiper-slide img {
